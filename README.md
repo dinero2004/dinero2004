@@ -3,7 +3,6 @@
 - ༊ ·˚ I’m currently learning Webdesign & Development
 - ༊ ·˚ I’m looking to collaborate on Webdesign/Webdevelopment Projects
 - ༊ ·˚ How to reach me LinkedIn, Instagram, X: Lazar Minkov, Strava: Lazar Minkov
-- ༊ ·˚ Pronouns: HE/WAS
 - ༊ ·˚ Fun fact: I love Cycling
 
 <!---
