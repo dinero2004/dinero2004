@@ -1,9 +1,11 @@
 - ༊ ·˚ Hi, I’m Lazar Minkov
+- ༊ ·˚ SAE Institute Diploma Graduate
+- ༊ ·˚ Full Stack Web Developer
 - ༊ ·˚ I’m interested in Working out, Cycling, Calistenics, Drawing.
 - ༊ ·˚ I’m currently learning Webdesign & Development
 - ༊ ·˚ I’m looking to collaborate on Webdesign/Webdevelopment Projects
 - ༊ ·˚ How to reach me LinkedIn, Instagram, X: Lazar Minkov, Strava: Lazar Minkov
-- ༊ ·˚ Fun fact: I love Cycling
+- ༊ ·˚ Fun fact: I love Cycling, Motorcycles
 
 <!---
 dinero2004/dinero2004 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
