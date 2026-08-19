@@ -1,5 +1,5 @@
 - ༊ ·˚ Hi, I’m Lazar Minkov
-- ༊ ·˚ SAE Institute Diploma Graduate
+- ༊ ·˚ SAE Institute Bachelor Graduate
 - ༊ ·˚ Full Stack Web Developer
 - ༊ ·˚ I’m interested in Working out, Cycling, Calistenics, Drawing.
 - ༊ ·˚ I’m currently learning Webdesign & Development
